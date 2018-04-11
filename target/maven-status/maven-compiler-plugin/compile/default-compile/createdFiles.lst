@@ -1,0 +1,5 @@
+service\ServiceClient.class
+dao\ConnexionMySql.class
+presentation\UserBean.class
+domaine\Client.class
+dao\DaoClient.class
